@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RoomDB_Demo</string>
+    <string name="app_name">DB_Demo</string>
     <string name="add_device">Add Device</string>
     <string name="save">Save</string>
     <string name="device_name">Device name</string>
